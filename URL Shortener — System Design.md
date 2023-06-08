@@ -14,6 +14,8 @@
 
 ● Random Short URLs (Unpredictability)
 
-Full Video Link:
+## Full Video Link:
 
 https://www.youtube.com/watch?v=x87X9O1FPX4&list=PLmtNcpUq3YIJequI5FneNkiEGiHmwm3_o
+
+![IMAGE](https://miro.medium.com/v2/resize:fit:1100/format:webp/1*igGvGKGMH2jg7bVvc3ZFSw.png)
