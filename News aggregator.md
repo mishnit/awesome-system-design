@@ -24,4 +24,4 @@
 
 https://www.youtube.com/watch?v=xRBLqs6Gij4&list=PLmtNcpUq3YIJequI5FneNkiEGiHmwm3_o
 
-![IMAGE] (https://miro.medium.com/v2/resize:fit:1100/format:webp/1*AkkjggSAMCmZtanJgVWhkQ.png)
+![IMAGE](https://miro.medium.com/v2/resize:fit:1100/format:webp/1*AkkjggSAMCmZtanJgVWhkQ.png)
