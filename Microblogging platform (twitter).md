@@ -25,3 +25,7 @@
 https://www.youtube.com/watch?v=-HEsM_Dl--Q&list=PLmtNcpUq3YIJequI5FneNkiEGiHmwm3_o
 
 ![IMAGE](https://miro.medium.com/v2/resize:fit:1100/format:webp/1*ZxJ4gef99JZWz28e5e6nhw.png)
+
+## Note:
+
+Home timeline service acts as a post ranker and feed mixer. Ranking happens on the basis of number of likes, comments, reposts, media quality, tags and post creation timestamp while mixing happens on the basis of whether a follower wants to see all posts or only trending posts of a followee. We can maintain this preference in database mapped to follow service
