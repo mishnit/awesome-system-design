@@ -14,6 +14,6 @@
 
 ## Full Video Link:
 
-https://www.youtube.com/watch?v=lm0vslSvUeE&list=PLmtNcpUq3YIJequI5FneNkiEGiHmwm3_o
+[youtube link](https://www.youtube-nocookie.com/embed/lm0vslSvUeE)
 
 ![IMAGE](https://miro.medium.com/v2/resize:fit:1100/format:webp/1*FsEY6JCGeIkeIsyu3DQPew.png)
