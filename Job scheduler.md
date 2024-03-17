@@ -22,6 +22,6 @@
 
 ## Full Video Link:
 
-https://www.youtube.com/watch?v=TRr5Mmf3CcA&list=PLmtNcpUq3YIJequI5FneNkiEGiHmwm3_o
+[youtube link](https://www.youtube-nocookie.com/embed/TRr5Mmf3CcA) 
 
 ![IMAGE](https://miro.medium.com/v2/resize:fit:1100/format:webp/1*zumuARzabRbzlm6GC2Lnfg.png)
